@@ -52,7 +52,7 @@ const projects = [
         title: "Portofolio Web",
         description: "Making my First Portos Web Using Html, css, and Js. This is the web.",
         tech: ["HTML", "CSS", "JavaScript"],
-        link: "https://github.com/ushanka73/Ushankovweb"
+        link: "https://github.com/ushanka73/Ushk"
     },
     {
         title: "Test Game",
